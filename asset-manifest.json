@@ -1,13 +1,13 @@
 {
-  "main.css": "/bootstrap-small_popup/static/css/main.ac530e6d.chunk.css",
-  "main.js": "/bootstrap-small_popup/static/js/main.14f04f8b.chunk.js",
-  "main.js.map": "/bootstrap-small_popup/static/js/main.14f04f8b.chunk.js.map",
-  "runtime~main.js": "/bootstrap-small_popup/static/js/runtime~main.4e20a50a.js",
-  "runtime~main.js.map": "/bootstrap-small_popup/static/js/runtime~main.4e20a50a.js.map",
-  "static/js/2.1719f4fd.chunk.js": "/bootstrap-small_popup/static/js/2.1719f4fd.chunk.js",
-  "static/js/2.1719f4fd.chunk.js.map": "/bootstrap-small_popup/static/js/2.1719f4fd.chunk.js.map",
-  "index.html": "/bootstrap-small_popup/index.html",
-  "precache-manifest.e9c6ed2409866f9d03fa48aa4cf36fd3.js": "/bootstrap-small_popup/precache-manifest.e9c6ed2409866f9d03fa48aa4cf36fd3.js",
-  "service-worker.js": "/bootstrap-small_popup/service-worker.js",
-  "static/css/main.ac530e6d.chunk.css.map": "/bootstrap-small_popup/static/css/main.ac530e6d.chunk.css.map"
+  "main.css": "/bootstrap-small-popup/static/css/main.ac530e6d.chunk.css",
+  "main.js": "/bootstrap-small-popup/static/js/main.58f4059e.chunk.js",
+  "main.js.map": "/bootstrap-small-popup/static/js/main.58f4059e.chunk.js.map",
+  "runtime~main.js": "/bootstrap-small-popup/static/js/runtime~main.998c73ab.js",
+  "runtime~main.js.map": "/bootstrap-small-popup/static/js/runtime~main.998c73ab.js.map",
+  "static/js/2.1719f4fd.chunk.js": "/bootstrap-small-popup/static/js/2.1719f4fd.chunk.js",
+  "static/js/2.1719f4fd.chunk.js.map": "/bootstrap-small-popup/static/js/2.1719f4fd.chunk.js.map",
+  "index.html": "/bootstrap-small-popup/index.html",
+  "precache-manifest.bb6fc8e4b333268a4353e2ef20baa5a8.js": "/bootstrap-small-popup/precache-manifest.bb6fc8e4b333268a4353e2ef20baa5a8.js",
+  "service-worker.js": "/bootstrap-small-popup/service-worker.js",
+  "static/css/main.ac530e6d.chunk.css.map": "/bootstrap-small-popup/static/css/main.ac530e6d.chunk.css.map"
 }

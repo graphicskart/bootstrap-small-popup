@@ -29,10 +29,10 @@ export default class CustomModal extends Component {
             <Modal.Body>
                 <Col xs={12} sm={{span:8, offset: 2}}>
                     <p className="icon">{this.props.icon}</p>
-                    <p>{this.props.title}</p>
+                    <p className="title">{this.props.title}</p>
                 </Col>
                   <Col xs={12} className="modal-footer-area">
-                    <Button variant={`outline-${this.props.type}`} onClick={this.handleClose} block>
+                    <Button variant={`outline-${this.props.type}`} onClick={this.handleClose}>
                           {this.props.buttonTitle}
                     </Button>
                   </Col>

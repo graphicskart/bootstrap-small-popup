@@ -14,8 +14,12 @@
   border: none;
 }
 
+.modal .title {
+  font-weight: 700;
+}
+
 .modal .btn {
-  border-radius: 25px;
+  border-radius: 10px;
 }
 
 .modal-contents {

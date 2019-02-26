@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+.modal-footer {
+  justify-content: center;
+}
+
+.modal-body {
+  padding: 0px;
+}
+
+.modal-body, .modal-footer, .modal-header {
+  border: none;
+}
+
+.modal .btn {
+  border-radius: 25px;
+}
+
+.modal-contents {
+  padding: 20px 0;
+}
+
+.modal-footer-area {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 25px; 
+}
+
+.icon .far {
+  font-size: 100px;
+}
+
+.icon {
+  padding: 20px 0;
+}
+
+.danger .modal-header, .danger .modal-body, .danger .modal-footer {
+  background: #dc3545;
+  color: #fff;
+}
+
+.success .modal-header, .success .modal-body, .success .modal-footer {
+  background: #28a745;
+  color: #fff;
+}
+
+.danger .modal-header .close {
+  color: #fff;
+}
+
+.modal .btn-outline-success, .modal .btn-outline-danger {
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.modal-content {
+  border: none;
+}
+
+.modal-content, .modal-body {
+  border-radius: 30px;
+}
